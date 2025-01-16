@@ -7,6 +7,7 @@
   "license": "",
   "main": "main.js",
   "scripts": {
+    "start": "node ./src/main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
